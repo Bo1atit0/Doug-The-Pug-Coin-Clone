@@ -2,7 +2,7 @@
 
 # Doug The Pug Coin Clone
 
-This repository is a clone of the [Doug The Pug Coin](https://www.dougthepugcoin.xyz/) website, built using **React** for learning purposes by our frontend team. The goal of this project is to replicate the design and functionality of the original site using React and modern web development practices.
+This repository is a clone of the [Doug The Pug Coin](https://www.dougthepugcoin.xyz/) website, built using **React** for learning purposes. The goal of this project is to replicate the design and functionality of the original site using React and modern web development practices.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -12,7 +12,7 @@ This repository is a clone of the [Doug The Pug Coin](https://www.dougthepugcoin
 - [License](#license)
 
 ## Project Overview
-We aim to imitate the landing page and basic functionality of the original Doug The Pug Coin website. This includes:
+I aim to imitate the landing page and basic functionality of the original Doug The Pug Coin website. This includes:
 - Replicating the layout and design.
 - Implementing responsiveness for different screen sizes.
 - Adding interactive elements using React.
